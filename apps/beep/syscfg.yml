@@ -1,0 +1,7 @@
+syscfg.vals:
+
+    # PWM for buzzer
+    PWM_0: 1
+
+    # pin where the buzzer is connected to
+    BUZZER_PIN: 26
